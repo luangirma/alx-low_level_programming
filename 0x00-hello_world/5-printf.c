@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main -Entry point
+ *
+ *Description: A program that demonstrates how to output with printf
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 
 {
