@@ -1,5 +1,11 @@
-#include <stdio.h>
-
+#include <stdio.h>                
+/*
+ * main -Entry point
+ *
+ * Description: A c program that demonstrates how to print with put funciton
+ *
+ * Return: Always 0 (Success) 
+ */
 int main(void)
 
 {
