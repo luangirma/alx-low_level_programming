@@ -1,2 +1,2 @@
-VimCrypt~03!π#KudR±
-d"70÷L ø≤Ï0ú¥Å9°Ü4øYY	9·å9\bÅßËj
+#!/bin/bash
+gcc -c $CFILE
