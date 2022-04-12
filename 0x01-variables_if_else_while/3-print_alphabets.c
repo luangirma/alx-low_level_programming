@@ -1,13 +1,9 @@
 #include <stdio.h>
 /**
- *
- *  * main 
- *
- *   *
- *
- *    * Return: Always (Success)
- *
- *     */
+ * main 
+ * Description: prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+ * Return: Always (Success)
+ */
 
 int main(void)
 {
